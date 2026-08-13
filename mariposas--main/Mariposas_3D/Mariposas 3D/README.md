@@ -70,11 +70,7 @@ Puedes personalizar:
 - **Móvil**: iOS Safari 12+, Chrome Mobile 70+
 - **Hardware**: WebGL compatible
 - **Rendimiento**: 30-60 FPS según el dispositivo
-
-## 👨‍💻 Autor
-
-**zero** - Especialista en visualizaciones 3D interactivas
-
+
 ## 🎯 Optimizaciones
 
 - ✅ Instancing para múltiples mariposas
